@@ -1751,7 +1751,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #95ace4 !important;
 }
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/mbr-1640x1080.jpg");
@@ -2205,7 +2205,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #95ace4 !important;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -2586,7 +2586,45 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #95ace4 !important;
+}
+.cid-qVnyeIoWyV {
+  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+}
+.cid-qVnyeIoWyV .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.cid-qVnyeIoWyV .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-qVnyeIoWyV .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-qVnyBD8U1k {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
+}
+.cid-qVnyBD8U1k .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.cid-qVnyBD8U1k .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-qVnyBD8U1k .mbr-figure img {
+    width: 100% !important;
+  }
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -2967,7 +3005,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #95ace4 !important;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -3348,7 +3386,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #95ace4 !important;
 }
 .cid-qV4dpRWRpy {
   background-image: url("../../../assets/images/background1.jpg");
@@ -3743,5 +3781,5 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #95ace4 !important;
 }
