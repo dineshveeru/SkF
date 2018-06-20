@@ -3010,6 +3010,24 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qVtEhfb4eC {
+  background-image: url("../../../assets/images/mbr-3-1620x1080.jpg");
+}
+.cid-qVtEhfb4eC .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.cid-qVtEhfb4eC .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-qVtEhfb4eC .mbr-figure img {
+    width: 100% !important;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
